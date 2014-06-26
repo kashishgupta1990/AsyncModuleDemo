@@ -1,0 +1,14 @@
+  997  git reset --hard 878fc83
+  998  gl
+  999  git reset --hard 878fc83
+ 1000  gl
+ 1001  clear
+ 1002  ls
+ 1003  gl
+ 1004  git tag -r v1-beta
+ 1005  git tag -d v1-beta
+ 1006  gl
+ 1007  ls
+ 1008  mkdir lib
+ 1009  ls
+ 1010  gs
